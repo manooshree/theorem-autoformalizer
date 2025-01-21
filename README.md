@@ -1,5 +1,5 @@
 # theorem-autoformalizer
-**Experiments on auto-formalizing natural language theorem statements into Lean4. **
+**Experiments on auto-formalizing natural language theorem statements into Lean4.**
 
 I used 2 open source NL-FL datasets, filtering by linear algebra to determine performance for linear algebra theorems: 
 [ProofNet](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5/blob/main/datasets/proofnet.jsonl)
